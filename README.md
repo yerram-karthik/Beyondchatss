@@ -21,10 +21,12 @@ The API endpoint used is https://devapi.beyondchats.com/api/get_message_with_sou
 First, clone the repository from GitHub and navigate into the project directory:
 
 git clone https://github.com/yerram-karthik/beyondchats.git
+
 cd beyondchats
 
 ### 2. Run the Script
 Run the following command to execute the script:
+
 python main.py
 
 
